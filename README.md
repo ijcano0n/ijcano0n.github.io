@@ -20,7 +20,7 @@ Follow the steps below to add the device or printer to the canon ij printer setu
 5. On the other side in the application or software, open the software.
 6. Then click on Add device option.
 7. Then the scanning will begin.
-8. The application will detect the canon printer.
+8. The application will detect the cannon printer.
 9. Select your Canon printer device and add the Canon printer device.
 
 ### How to Add Printer to [Ij.start.cannon](https://ijcano0n.github.io/) setup Manually?
